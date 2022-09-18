@@ -1,6 +1,6 @@
 # CuriosiXY-mini
 
-CriosiXY-mini is a 3D printer making with a 3D printing.
+CriosiXY-mini is a 3D printer making with 3D printing.
 The bed size is 150mm square.
 It is designed around Core-XY kinematics and Belted-Z.
 
