@@ -2,9 +2,9 @@
 
 CriosiXY-mini is a 3D printer making with 3D printing.
 The bed size is 150mm square.
-It is designed around Core-XY kinematics and Belted-Z.
+It is designed based on Core-XY kinematics and Belted-Z.
 
-It's a work in progress and parts may interfere.
+It is work in progress and parts may interfere.
 
 ![Home](Images/CuriosiXY-Assembly.png)
 
